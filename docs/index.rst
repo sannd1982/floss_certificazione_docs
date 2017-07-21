@@ -9,7 +9,8 @@ Welcome to FlossCertificazione's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   :presentazione
+   
+   presentazione
 
 
 Indices and tables
